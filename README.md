@@ -45,7 +45,7 @@ Amazon Price Tracker is designed to help users track price fluctuations of speci
    - `TARGET_PRICE`: Your desired price threshold
    - `CHECK_INTERVAL`: How often to check the price (in seconds)
 
-2. In `secrets.py`, add your email credentials:
+2. add your email credentials:
    - `EMAIL_ADDRESS`: Your email address
    - `EMAIL_PASSWORD`: Your email password or app-specific password
 
