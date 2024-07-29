@@ -19,9 +19,9 @@ price = float(number_without_comma)
 
 price_low = 31000
 
-my_mail = "fackman153@gmail.com"
-password = "gnyqleyzdumgromz"
-to = "puspendrachawlax@gmail.com"
+my_mail = MY_MAIL
+password = PASSWORD
+to = TO_MAIL
 
 SUBJECT = 'Low Price Alert'
 TEXT = f"GIGABYTE pci_e_x16 GeForce RTX 3060 is now ₹{price}"
