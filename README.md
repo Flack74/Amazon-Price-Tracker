@@ -1,4 +1,3 @@
-```markdown
 # 🛒 Amazon Price Tracker
 
 Automate your Amazon deal-hunting with precision and ease.
